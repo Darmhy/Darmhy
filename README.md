@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darmhy
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis, Machine Learning, Computer Vision, Deep Learning
 - 🌱 I’m currently learning VBA, Python, SQL, Cloud Computing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Image Analysis and Computer Vision
 - 📫 How to reach me ...
 
 <!---
